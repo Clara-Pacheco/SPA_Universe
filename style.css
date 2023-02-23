@@ -17,9 +17,47 @@ body {
   color: #fff;
 
   background-image:url('https://images.unsplash.com/photo-1531808607305-42041f13cc0e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80');
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   background-position: center;
   background-size: 100%;
+
+}
+
+#app {
+  height: 100vh;
+  display:grid;
+  place-content: center;
+  gap: 50px;
+
+
+}
+
+h1 {
+  font-size: 80px;
+}
+
+.text-universe {
+  margin-top: 350px;
+}
+
+.text-exploration {
+  margin-top: 100px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 40px;
+  text-align: center;
+}
+
+img {
+  margin: auto;
+}
+
+p {
+  width: 80vw;
+  text-align: center;
+
 
 }
 
@@ -49,8 +87,16 @@ body {
 }
 
 button {
+
+  width: 300px;
+  height: 50px;
+
+  margin: auto;
   background-color: transparent;
   color: #fff;
   padding: 1rem;
+
+  border: 1px solid #fff;
+
 
 }
