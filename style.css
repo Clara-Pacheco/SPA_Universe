@@ -7,6 +7,12 @@
 
 :root {
   font-size: 62.5%;
+  
+  background-image:url('https://images.unsplash.com/photo-1531808607305-42041f13cc0e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-cover: cover;
+  background-size: 100%;
 }
 
 body {
@@ -16,10 +22,9 @@ body {
   font-family: 'Space Mono', monospace;
   color: #fff;
 
-  background-image:url('https://images.unsplash.com/photo-1531808607305-42041f13cc0e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80');
-  background-repeat: repeat;
-  background-position: center;
-  background-size: 100%;
+  position: relative;
+
+  
 
 }
 
@@ -36,14 +41,12 @@ h1 {
   font-size: 80px;
 }
 
+.text-exploration,
 .text-universe {
-  margin-top: 350px;
-}
-
-.text-exploration {
-  margin-top: 100px;
+  margin-top: 250px;
   text-align: center;
 }
+
 
 h2 {
   font-size: 40px;
@@ -63,10 +66,11 @@ p {
 
 .head {
 
-  font-size: 3.2rem;
+  position: absolute;
+  top: 80px;
 
-  margin-top: 10rem;
-  
+  font-size: 3.2rem;
+ 
   display: flex;
   justify-content: flex-start;
   align-items: center;
