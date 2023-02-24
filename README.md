@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/github/repo-size/Clara-Pacheco/SPA_Universe"/>&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/github/languages/count/Clara-Pacheco/SPA_Universe"/>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/1268c36a-436a-4f2b-93b9-866621d17715/deploy-status)](https://app.netlify.com/sites/rocketseatn6-spa/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8612d44d-bc29-4292-a78b-07f937e5390f/deploy-status)](https://app.netlify.com/sites/rocketseatspauniverse/deploys)
 
 </div>
 
