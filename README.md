@@ -49,7 +49,7 @@ O resultado final desse desafio deve ser algo em torno de:
 
 ![Project´s preview](https://github.com/Clara-Pacheco/SPA_Universe/blob/main/assets/project_preview.png)
 
-![Project´s preview]()
+![Project´s preview](https://github.com/Clara-Pacheco/SPA_Universe/blob/main/assets/video-preview/SPA-Universe-Google-Chrome-2023-02-24-07-58-20.gif)
 
 <br>
 
